@@ -6,7 +6,7 @@
 </pre>
 ![image](https://github.com/user-attachments/assets/a8fd0508-5da6-4d17-b88b-c494162bcaaa)
 
-{...}
+##
 
 <pre>
 {"message":"CPF ou e-Mail já em uso"}
