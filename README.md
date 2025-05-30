@@ -81,7 +81,7 @@
 ![image](https://github.com/user-attachments/assets/edb236e8-3134-47d2-b4c6-31a87ef0681d)
 
 
-#30
+# 30
 <pre>
 [{"_id":"68390348efa2190aea3007d8","professor":{"_id":"6838fa6812032229b8b6a3a5","nome":"Odetinha Roitman","email":"odetinha.roitman@fatec.sp.gov.br","cpf":"32082128016","__v":0},"disciplina":{"_id":"6839027befa2190aea3007d2","descricao":"Técnicas de Programação II","__v":0}},{"_id":"683906b8efa2190aea3007dc","professor":{"_id":"6838fd40efa2190aea3007c4","nome":"Henrique Louro","email":"henrique.louro@fatec.sp.gov.br","cpf":"07494812857","__v":0},"disciplina":{"_id":"6839027befa2190aea3007d2","descricao":"Técnicas de Programação II","__v":0}}]
 </pre>
